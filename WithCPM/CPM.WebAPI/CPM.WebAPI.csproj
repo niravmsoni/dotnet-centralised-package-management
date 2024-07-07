@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">	
+	<ItemGroup>
+		<PackageReference Include="Serilog" />
+		<PackageReference Include="Serilog.AspNetCore" />
+		<PackageReference Include="Serilog.Sinks.Console" />
+		<PackageReference Include="Swashbuckle.AspNetCore" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\CPM.Core\CPM.Core.csproj" />
+	</ItemGroup>
+
+</Project>

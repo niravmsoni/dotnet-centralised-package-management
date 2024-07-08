@@ -1,5 +1,4 @@
-# dotnet-centralised-package-management
-## Overview
+# Dotnet Centralised Package Management
 Dependency management is an important requirement in any .NET app. Managing dependencies for a single project can be easy. Managing dependencies for multi-project solutions can prove to be difficult as they start to scale in size and complexity.
 
 ## What's the motivation?

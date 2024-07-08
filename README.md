@@ -74,4 +74,7 @@ As you can see, this is clearly a more streamlined implementation promoting reus
 - https://devblogs.microsoft.com/nuget/introducing-central-package-management/
 - https://github.com/ardalis/CleanArchitecture
 
+## Give a Star! ⭐
+Feel free to request an issue on github if you find bugs or request a new feature. Your valuable feedback is much appreciated to better improve this project. If you find this useful, please give it a star to show your support for this project.
+
 
